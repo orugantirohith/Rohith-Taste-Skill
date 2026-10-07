@@ -2,7 +2,7 @@
 
 An anti-slop **frontend design taste** skill for AI coding assistants (Claude Code, Cursor, Windsurf, Gemini CLI, Codex CLI, and more). It gives your AI agent real design judgement so generated landing pages, portfolios, and redesigns stop looking templated.
 
-> **Developed / maintained by Mohammad Rohith Imdad (Rohith Scripts)**
+> **Developed / maintained by DAVIZ Solutions (Rohith Scripts)**
 > WhatsApp: https://wa.me/971504030778 (For Custom Projects)
 > YouTube: https://www.youtube.com/@davizsolutions (Subscribe for more!)
 
