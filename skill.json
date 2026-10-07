@@ -1,0 +1,30 @@
+{
+  "name": "design-taste-frontend",
+  "displayName": "Rohith Taste Skill",
+  "description": "Anti-slop frontend design taste skill for AI coding assistants. 3-parameter equalizer (DESIGN_VARIANCE / MOTION_INTENSITY / VISUAL_DENSITY) for landing pages, portfolios, and redesigns.",
+  "version": "1.0.0",
+  "author": "Mohammad Rohith Imdad (Rohith Scripts)",
+  "license": "MIT",
+  "homepage": "https://github.com/orugantirohith/Rohith-Taste-Skill",
+  "repository": "https://github.com/orugantirohith/Rohith-Taste-Skill",
+  "keywords": [
+    "ui",
+    "ux",
+    "design",
+    "frontend",
+    "design-system",
+    "anti-slop",
+    "ai-skill",
+    "claude-code"
+  ],
+  "platforms": [
+    "claude",
+    "cursor",
+    "windsurf",
+    "gemini",
+    "codex",
+    "opencode",
+    "antigravity"
+  ],
+  "install": "npx skills add https://github.com/orugantirohith/Rohith-Taste-Skill --skill \"design-taste-frontend\""
+}
